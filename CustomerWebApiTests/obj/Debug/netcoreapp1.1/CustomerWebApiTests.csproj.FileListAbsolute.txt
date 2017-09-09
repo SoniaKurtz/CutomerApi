@@ -1,0 +1,13 @@
+c:\Users\Sonia\Documents\GitHub\CustomerWeb\CustomerWebApiTests\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+c:\Users\Sonia\Documents\GitHub\CustomerWeb\CustomerWebApiTests\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+c:\Users\Sonia\Documents\GitHub\CustomerWeb\CustomerWebApiTests\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+c:\Users\Sonia\Documents\GitHub\CustomerWeb\CustomerWebApiTests\bin\Debug\netcoreapp1.1\CustomerWebApiTests.deps.json
+c:\Users\Sonia\Documents\GitHub\CustomerWeb\CustomerWebApiTests\bin\Debug\netcoreapp1.1\CustomerWebApiTests.runtimeconfig.json
+c:\Users\Sonia\Documents\GitHub\CustomerWeb\CustomerWebApiTests\bin\Debug\netcoreapp1.1\CustomerWebApiTests.runtimeconfig.dev.json
+c:\Users\Sonia\Documents\GitHub\CustomerWeb\CustomerWebApiTests\bin\Debug\netcoreapp1.1\CustomerWebApiTests.dll
+c:\Users\Sonia\Documents\GitHub\CustomerWeb\CustomerWebApiTests\bin\Debug\netcoreapp1.1\CustomerWebApiTests.pdb
+c:\Users\Sonia\Documents\GitHub\CustomerWeb\CustomerWebApiTests\bin\Debug\netcoreapp1.1\CustomerWebApi.dll
+c:\Users\Sonia\Documents\GitHub\CustomerWeb\CustomerWebApiTests\bin\Debug\netcoreapp1.1\CustomerWebApi.pdb
+c:\Users\Sonia\Documents\GitHub\CustomerWeb\CustomerWebApiTests\obj\Debug\netcoreapp1.1\CustomerWebApiTests.AssemblyInfo.cs
+c:\Users\Sonia\Documents\GitHub\CustomerWeb\CustomerWebApiTests\obj\Debug\netcoreapp1.1\CustomerWebApiTests.dll
+c:\Users\Sonia\Documents\GitHub\CustomerWeb\CustomerWebApiTests\obj\Debug\netcoreapp1.1\CustomerWebApiTests.pdb

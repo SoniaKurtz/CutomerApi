@@ -1,0 +1,16 @@
+C:\Users\Sonia\Documents\GitHub\CustomerWebApi\bin\Debug\netcoreapp1.1\CustomerWebApi.deps.json
+C:\Users\Sonia\Documents\GitHub\CustomerWebApi\bin\Debug\netcoreapp1.1\CustomerWebApi.runtimeconfig.json
+C:\Users\Sonia\Documents\GitHub\CustomerWebApi\bin\Debug\netcoreapp1.1\CustomerWebApi.runtimeconfig.dev.json
+C:\Users\Sonia\Documents\GitHub\CustomerWebApi\bin\Debug\netcoreapp1.1\CustomerWebApi.dll
+C:\Users\Sonia\Documents\GitHub\CustomerWebApi\bin\Debug\netcoreapp1.1\CustomerWebApi.pdb
+C:\Users\Sonia\Documents\GitHub\CustomerWebApi\obj\Debug\netcoreapp1.1\CustomerWebApi.AssemblyInfo.cs
+C:\Users\Sonia\Documents\GitHub\CustomerWebApi\obj\Debug\netcoreapp1.1\CustomerWebApi.dll
+C:\Users\Sonia\Documents\GitHub\CustomerWebApi\obj\Debug\netcoreapp1.1\CustomerWebApi.pdb
+c:\Users\Sonia\Documents\GitHub\CustomerWeb\CustomerWebApi\bin\Debug\netcoreapp1.1\CustomerWebApi.deps.json
+c:\Users\Sonia\Documents\GitHub\CustomerWeb\CustomerWebApi\bin\Debug\netcoreapp1.1\CustomerWebApi.runtimeconfig.json
+c:\Users\Sonia\Documents\GitHub\CustomerWeb\CustomerWebApi\bin\Debug\netcoreapp1.1\CustomerWebApi.runtimeconfig.dev.json
+c:\Users\Sonia\Documents\GitHub\CustomerWeb\CustomerWebApi\bin\Debug\netcoreapp1.1\CustomerWebApi.dll
+c:\Users\Sonia\Documents\GitHub\CustomerWeb\CustomerWebApi\bin\Debug\netcoreapp1.1\CustomerWebApi.pdb
+c:\Users\Sonia\Documents\GitHub\CustomerWeb\CustomerWebApi\obj\Debug\netcoreapp1.1\CustomerWebApi.AssemblyInfo.cs
+c:\Users\Sonia\Documents\GitHub\CustomerWeb\CustomerWebApi\obj\Debug\netcoreapp1.1\CustomerWebApi.dll
+c:\Users\Sonia\Documents\GitHub\CustomerWeb\CustomerWebApi\obj\Debug\netcoreapp1.1\CustomerWebApi.pdb
